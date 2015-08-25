@@ -10,3 +10,4 @@ The program initally asks for:
 The ratings are given on a scale of 1-10. The user should input digits only.
 
 At the end, the program calculates which option best suits the person's needs based on the user inputs.
+The highest scoring option is the "best" choice

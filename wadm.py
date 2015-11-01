@@ -42,8 +42,6 @@ def get_factors():
 	
 	return factors
 
-##now i need to get how user sees each decision evaluate to factors
-#for loop for choices -> for loop for factors -> multiply input by factors[factor]
 
 def evaluate():
 	"""Does the math to determine which decision is better"""
@@ -75,5 +73,3 @@ def run_matrix():
 		print "The decision to %s scored %d.\n" % (choice, choice_totals[choice])
 
 	print "The higher the score, the more likely you should do it! Good luck!"
-
-run_matrix()

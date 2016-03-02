@@ -73,3 +73,7 @@ def run_matrix():
 		print "The decision to %s scored %d.\n" % (choice, choice_totals[choice])
 
 	print "The higher the score, the more likely you should do it! Good luck!"
+	raw_input("")
+	
+	
+run_matrix()
